@@ -1,4 +1,4 @@
-java_datetime
+java-datetime
 ===
 
-To familiar with JDK date/time libraries.
+To familiar with java date/time libraries.
